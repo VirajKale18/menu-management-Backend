@@ -34,7 +34,6 @@ The folder structure of this app is explained below:
 | Name | Description |
 | ------------------------ | --------------------------------------------------------------------------------------------- |
 | **node_modules**         | Contains all  npm dependencies                                                                |
-| **src**                  | Contains generic functions which are used repeatedly                                          |
 | **src/utils**            | Application configuration including environment-specific configs                              |
 | **src/controllers**      | Controllers define functions to serve various express routes.                                 |
 | **src/db**               | Function to connect the MongoDB Database                                                      |
@@ -43,4 +42,4 @@ The folder structure of this app is explained below:
 | **src/models**           | Models define schemas that will be used in storing and retrieving data from Application database |
 | **src**/index.js         | Entry point to express app                                                                    |
 | **src**/app.js           | Express app configurations and setting                                                        |
-| package.json             | Contains npm dependencies as well as [build scripts](#what-if-a-library-isnt-on-definitelytyped)|
+| package.json             | Contains npm dependencies as well as build scripts                                            |
