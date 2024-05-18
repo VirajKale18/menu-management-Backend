@@ -1,4 +1,4 @@
-# Instructions
+## Instructions
 
 # Environment vars
 This project uses the following environment variables:
